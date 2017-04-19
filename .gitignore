@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules/
+bower_components/
+dist/
+npm-debug.log
+selenium-debug.log
+test/unit/coverage
+test/e2e/reports
+.idea/
+typings/
+.gitignore
+src/assets/idea-gitignore-1.7.6.zip
+src/assets/idea-gitignore/
